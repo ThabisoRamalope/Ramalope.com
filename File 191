@@ -1,1 +1,12 @@
-https://github.com/ThabisoRamalope/Ramalope.com.git
+1s
+1s
+Run npm install
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/runner/work/Ramalope.com-Website/Ramalope.com-Website/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/runner/work/Ramalope.com-Website/Ramalope.com-Website/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of 
